@@ -28,3 +28,4 @@ Machen Sie für folgende Testfälle den Schreibtischtest, bevor Sie mit dem Prog
 Kommen Sie vor 12:00 Uhr bei der Tante an, bekommen Sie noch ein Mittagessen, sonst gibt es nurKaffee und Kuchen. Geben Sie den entsprechenden Text aus.
 Wenn die eingegebene Geschwindigkeit nicht reicht, um die Tante vor 19:00 Uhr zu erreichen, geben Sie eine Warnung aus, dass es dunkel wird, bevor Sie die Tante erreichen.
 Lassen Sie den Benutzer bei Programmbeginn entscheiden, ob er die Fahrtdauer oder die Geschwindigkeit vorgeben will und berechnen Sie die jeweils andere Komponente. Unterstützung von Mitschülern, die mit der Übung noch nicht so weit sind.
+
